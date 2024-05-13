@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤓신입 FE 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 직장에 소속되고 싶은 개발자</li><li> 몰입하기 좋아하는 개발자 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 몰입하기 좋아하는 개발자 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
