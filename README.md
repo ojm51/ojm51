@@ -35,8 +35,6 @@
   <div align= "left"> 
     <a href=mailto:ojm5155@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ojm5155@gmail.com"> </a>
     <a href=https://dev-district.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dev-district.tistory.com/"> </a>
-    <br>
-    <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fojm51%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
   </div> 
 </div>
 <br/>
