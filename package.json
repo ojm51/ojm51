@@ -1,0 +1,24 @@
+{
+  "name": "ojm51",
+  "version": "1.0.0",
+  "description": "<div align= \"center\">   <img src=\"https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hello,%20I'm%20Emma&animation=&fontColor=ffffff&fontSize=60\" /> </div> <br>",
+  "main": "readmeUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojm51/ojm51.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojm51/ojm51/issues"
+  },
+  "homepage": "https://github.com/ojm51/ojm51#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
