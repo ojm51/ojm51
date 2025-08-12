@@ -36,7 +36,6 @@ const staticContent = `
   </div>
 </div>
 <br>
-<br>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
@@ -48,7 +47,6 @@ const staticContent = `
     </a>
   </div>
 </div>
-<br>
 <br>
 
 <div align="center">
@@ -67,8 +65,6 @@ const staticContent = `
     </a>
   </div>
 </div>
-<br>
-<br>
 
 <!-- <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
@@ -91,7 +87,7 @@ const parser = new Parser({
 });
 
 (async () => {
-  let blogSection = "";
+  let blogSection = `<div align="center">\n`;
 
   try {
     // ✅ 아래 parseURL("") 안에 본인의 블로그 rss 페이지 주소를 입력
@@ -104,20 +100,14 @@ const parser = new Parser({
       const { title, link } = feed.items[i];
       linksHtml += `<a href="${link}">${title}</a><br>\n`;
     }
-
-    blogSection = `
-    <div align="center">
-      <div style="display: inline-block; text-align: left;">
-        ${linksHtml}
-      </div>
-    </div>
-    `;
   } catch (error) {
     console.error("RSS 파싱 중 오류 발생:", error);
     blogSection = `
     <div align="center">블로그 글을 불러오지 못했습니다.</div>
     `;
   }
+
+  blogSection += `</div>\n`;
 
   // ----- [3] 파일 작성 -----
   const finalContent = staticContent + blogSection;
