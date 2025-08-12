@@ -100,11 +100,12 @@ const parser = new Parser({
       const { title, link } = feed.items[i];
       linksHtml += `<a href="${link}">${title}</a><br>\n`;
     }
+
+    blogSection += linksHtml;
+
   } catch (error) {
     console.error("RSS 파싱 중 오류 발생:", error);
-    blogSection = `
-    <div align="center">블로그 글을 불러오지 못했습니다.</div>
-    `;
+    blogSection += `블로그 글을 불러오지 못했습니다.\n`;
   }
 
   blogSection += `</div>\n`;
