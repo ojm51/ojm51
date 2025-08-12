@@ -32,7 +32,6 @@
   </div>
 </div>
 <br>
-<br>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
@@ -44,7 +43,6 @@
     </a>
   </div>
 </div>
-<br>
 <br>
 
 <div align="center">
@@ -63,8 +61,6 @@
     </a>
   </div>
 </div>
-<br>
-<br>
 
 <!-- <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
@@ -77,15 +73,5 @@
 </div>
 <br>
 <br> -->
-
-    <div align="center">
-      <div style="display: inline-block; text-align: left;">
-        <a href="https://dev-district.tistory.com/86">[Git] 티스토리 글 Github에 자동으로 커밋하기(feat. RSS, Github Actions)</a><br>
-<a href="https://dev-district.tistory.com/83">[React] Hook이란(feat. useState, Effect, Ref, Memo, Callback)</a><br>
-<a href="https://dev-district.tistory.com/82">[Frontend] 쿠키와 웹 스토리지(로컬, 세션)의 특징</a><br>
-<a href="https://dev-district.tistory.com/70">[Javascript] 호이스팅(Hoisting)이란?</a><br>
-<a href="https://dev-district.tistory.com/81">[Javascript] 클로저(Closure)란</a><br>
-
-      </div>
-    </div>
-    
+<div align="center">
+</div>
