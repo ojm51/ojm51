@@ -74,9 +74,9 @@
 <br>
 <br> -->
 <div align="center">
+<a href="https://dev-district.tistory.com/89">[Javascript] sort 메서드 활용하기(feat. 객체, Map)</a><br>
 <a href="https://dev-district.tistory.com/88">[AI] AI로 인한 피해 5가지와 예시</a><br>
 <a href="https://dev-district.tistory.com/87">[CSS] Next.js15 LocalFont 적용하기(feat. Tailwind v4)</a><br>
 <a href="https://dev-district.tistory.com/86">[Git] 티스토리 글 Github에 자동으로 커밋하기(feat. RSS, Github Actions)</a><br>
 <a href="https://dev-district.tistory.com/83">[React] Hook이란(feat. useState, Effect, Ref, Memo, Callback)</a><br>
-<a href="https://dev-district.tistory.com/82">[Frontend] 쿠키와 웹 스토리지(로컬, 세션)의 특징</a><br>
 </div>
