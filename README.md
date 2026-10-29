@@ -1,4 +1,3 @@
-
 <div align="center">
   <!-- Welcome -->
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&text=Hello%20I'm%20Emma&animation=fadeIn&fontColor=ffffff&fontSize=70" />
@@ -7,7 +6,7 @@
 <br>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+  <h2>
     Tech Stacks
   </h2>
   <div style="margin: 0 auto; text-align: center;" align="center">
@@ -30,10 +29,7 @@
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-    <br>
-    <br>
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-    <img src="https://img.shields.io/badge/Alembic-444444?style=for-the-badge">
     <br>
     <br>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -43,7 +39,16 @@
 <br>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+  <h2>Stats</h2>
+  <a href="https://github.com/ojm51">
+    <img src="https://github-stats-extended.vercel.app/api?username=ojm51&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark_dimmed" alt="GitHub Stats" />
+  </a>
+</div>
+<br>
+<br>
+
+<div align="center">
+  <h2>
     Contact me
   </h2>
   <div align="center">
@@ -52,10 +57,17 @@
     </a>
   </div>
 </div>
+
+<!-- Visitors -->
+<div align="center">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fojm51?color=gray&label=👀&size=small" alt="👀" />
+  </a>
+</div>
 <br>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+  <h2>
     Blog Posts
   </h2>
   <div align="center">
@@ -63,25 +75,8 @@
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dev-district.tistory.com">
     </a>
   </div>
-  <div align="center">
-    <!-- Visitors -->
-    <a href="https://myhits.vercel.app">
-      <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fojm51?color=gray&label=👀&size=small" alt="👀" />
-    </a>
-  </div>
 </div>
 
-<!-- <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    Stats
-  </h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ojm51&custom_title=ojm51's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojm51&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-  </div>
-</div>
-<br>
-<br> -->
 <div align="center">
 <a href="https://dev-district.tistory.com/89">[Javascript] sort 메서드 활용하기(feat. 객체, Map)</a><br>
 <a href="https://dev-district.tistory.com/88">[AI] AI로 인한 피해 5가지와 예시</a><br>
