@@ -47,16 +47,12 @@
 <br>
 <br>
 
-<div align="center">
-  <h2>
-    Contact me
-  </h2>
-  <div align="center">
-    <a href="mailto:ojm5155@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ojm5155@gmail.com">
-    </a>
-  </div>
-</div>
+<h2 align="center">Contact me</h2>
+<p align="center">
+  <a href="mailto:ojm5155@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 <!-- Visitors -->
 <div align="center">
